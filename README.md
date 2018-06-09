@@ -7,5 +7,5 @@ Cualquier duda al respecto no dude en contactarnos al correo electrónico rperer
 Hemos hecho un video explicando el código fuente, el cual puede ser accedido mediante YouTube (https://www.youtube.com/watch?v=8cYGpNMQxdE)
 
 
-[![Explicando el código](https://img.youtube.com/vi/8cYGpNMQxdE/0.jpg)](https://www.youtube.com/watch?v=YI1R502ux3M)
+[![Explicando el código](https://img.youtube.com/vi/8cYGpNMQxdE/0.jpg)](https://www.youtube.com/watch?v=8cYGpNMQxdE)
 
